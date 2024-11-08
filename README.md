@@ -10,5 +10,5 @@ cd galljoo-bot
 npm i
 ```
 ```
-node index.js
+npm run server
 ```
